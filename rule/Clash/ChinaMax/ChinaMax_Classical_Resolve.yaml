@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-09 02:12:49
+# UPDATED: 2021-12-10 02:10:58
 # DOMAIN-SUFFIX: 72388
 # PROCESS-NAME: 6
 # DOMAIN: 54
-# IP-CIDR: 6187
+# IP-CIDR: 6186
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5591
-# TOTAL: 84240
+# TOTAL: 84239
 payload:
   - DOMAIN,265.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -78612,7 +78612,6 @@ payload:
   - IP-CIDR,67.198.192.0/23
   - IP-CIDR,67.198.195.0/24
   - IP-CIDR,67.198.199.0/24
-  - IP-CIDR,67.198.201.0/24
   - IP-CIDR,67.198.207.0/24
   - IP-CIDR,67.198.208.0/24
   - IP-CIDR,67.198.221.0/24
