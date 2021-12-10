@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-10 02:11:00
-# DOMAIN-SUFFIX: 33330
+# UPDATED: 2021-12-11 02:10:53
+# DOMAIN-SUFFIX: 33331
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34695
+# TOTAL: 34696
 payload:
   - '1.201.0.0/24'
   - '1.37.35.6/32'

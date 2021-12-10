@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-10 02:10:46
+# UPDATED: 2021-12-11 02:10:39
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 54460
+# DOMAIN-SUFFIX: 54458
 # IP-CIDR: 256
-# DOMAIN: 48036
+# DOMAIN: 48116
 # IP-CIDR6: 1
 # URL-REGEX: 317
-# TOTAL: 103158
+# TOTAL: 103236
 0.nextyourcontent.com
 0000mps.webpreview.dsl.net
 0001.2waky.com
@@ -530,6 +530,7 @@
 3henterprise.com
 3j.news-subscribe.com
 3jmcwio.com
+3omb.com
 3rdinput.com
 3sexlist.com
 3simple-clics.com
@@ -690,6 +691,7 @@
 51huanche.com
 51junpin.net
 51xingming.com
+51youhua.org
 51zhongguo.com
 51zjkouqiang.com
 52.mizdok.com
@@ -1020,6 +1022,7 @@
 7979.nosubid.blueseek.com
 799866074.cn
 799f3607457e.com
+79ucic4ss8.com
 7ac5bed8bea5.com
 7adpower.com
 7aecd4ee5edfbb703be.com
@@ -3953,6 +3956,7 @@ alex-hacks.com
 alexa-silver.com
 alexa.unbounce.com
 alexajstrack.com
+alexanderfloors.org
 alexanderperfumery.com
 alexandra-connor.com
 alexandrarotary.com
@@ -5084,6 +5088,7 @@ apptrackit.com
 apptrknow.com
 appvirality.com
 appwall.batmobil.net
+appyaviator.com
 aprana.000webhostapp.com
 aprelite.com
 april29-disp-download.com
@@ -5954,6 +5959,7 @@ badstairs.com
 bae093b2b20fde784.com
 baerxupsjjegb.com
 bagoojzsqygg.com
+bagusholidays.com
 bahiaofertas.com
 bahiaofertas.net
 bahnjhnrcdwi.com
@@ -6886,6 +6892,7 @@ bilitasia.com
 bilkul.swarmscape.com
 bill.ecsuite.com
 bill.wiedemann.com
+billhoganphoto.com
 billiards008.top
 billiards037.top
 billiards040.top
@@ -7068,6 +7075,7 @@ blackhatworth.com
 blackhogriflecompany.com
 blackhulu.com
 blackmambajuice.com
+blacknite.eu
 blackops2.filesforgames.com
 blackops2.newzgames.com
 blackops2hack2013.com
@@ -7463,6 +7471,7 @@ bpcaschgauth.com
 bpczonasegura.vaibcq.com
 bperbancaonline.com
 bpglbuxwx.com
+bpiexpress-online.com
 bpilvlbzegwf.com
 bplenterprises.com
 bplzgzpqp.com
@@ -8137,6 +8146,7 @@ cadillacescalade.com
 cadlereducter.info
 cadmanipal.com
 cadrestaff.net
+cadxiedan.com
 caf-fr-espace.com
 cafe-being.com
 cafedesamispattaya.com
@@ -8344,6 +8354,7 @@ carry4enterprises.com
 cars.constructionwitness.net
 cars.fyidriving.com
 carsxardivaf.com
+cart.asianglobal.cn
 carte-mps.com
 cartoonpornguide.com
 cartoontube.com
@@ -8385,6 +8396,7 @@ casezdrop.com
 casgolounge.com
 cash-advance.now-cash.com
 cash-ca-ching.com
+cash-wear.com
 cash2goldbar.com
 cashatgsc.com
 cashbackworld.com
@@ -8515,6 +8527,7 @@ cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cc14d05942c685f7.com
 cc2.sys.intl.xiaomi.com
+cc4.5dt3au3e9.com
 cc4030c973cd1b7f4cd.com
 cc5f.dnyp.com
 cca-paris.com
@@ -8984,6 +8997,7 @@ chainsforchange.com
 chaletzinal.com
 chalisnafashion.com
 challenge.cityads.com
+challengedeprave.com
 challengeforme.com
 chamberstimber.com
 chamuncontabil.com
@@ -10438,6 +10452,7 @@ contactsin.com
 contadorgratis.web-kit.org
 contapessoajuridica.com
 contatoatendimento.com
+contemporaryceremonies.ca
 content.budsinc.com
 content.joinaxxess.com
 content.liveuniverse.com
@@ -10847,6 +10862,7 @@ create.followerinfo.xyz
 create.lidstatic.com
 createatraet.com
 creative.blis.com
+creativelifevents.com
 creativemindhacks.com
 creatives.gunosy.com
 creatives.lavanetwork.net
@@ -11067,6 +11083,7 @@ csgofireboom.com
 csgofirewin.com
 csgoflaming.com
 csgoflap.com
+csgoforces.com
 csgofortunes.com
 csgofoster.com
 csgofrozl.com
@@ -11165,6 +11182,7 @@ csgotradefly.com
 csgotradegear.com
 csgotradegun.com
 csgotradejet.com
+csgotrademax.com
 csgotunes.com
 csgoturbobets.com
 csgoultras.com
@@ -11494,6 +11512,7 @@ d.newagerocksinc.com
 d.peoplesearchads.com
 d.thanksearch.com
 d.xaoyo.com
+d.xitongtiandi.net
 d.ynjk120.com
 d.zeroredirect2.com
 d03x2011.com
@@ -12464,6 +12483,7 @@ divi.myboracayisland.com
 divine.lunarbreeze.com
 divineconne.com
 divinedeals.net
+divinediagnosis.com
 divinegenerator.com
 divineinsightoverseas.com
 divinephotosdrve.com
@@ -13062,6 +13082,7 @@ dragoncitycheatsforgems.com
 dragoncitycheatstool.com
 dragoncityfreehack.com
 dragoncitygems.com
+dragoncitygemshack.com
 dragoncityhack.net
 dragoncityhack.org
 dragoncityhack.zerw.org
@@ -14465,6 +14486,7 @@ etcjliejxlcfw.com
 etekxogwxx.com
 etereurm.org
 eternitymobiles.com
+eternomezcal.com
 eterzero.org
 etestosterone.com
 etgdta.com
@@ -14923,6 +14945,7 @@ ezlifeinc.org
 ezloaded.com
 ezlxnyhbjtqr.com
 ezoic.net
+ezpowerproducts.com
 ezqkuwqlvnv.com
 ezqldmevi.com
 ezrutveckpuly.com
@@ -15822,6 +15845,7 @@ filter.onwardclick.com
 filtermomosearch.com
 filterycreasona.info
 fime2013.com
+fimmovie.com
 fimserve.askmen.com
 fimserve.myspace.com
 finance-offer.com
@@ -16576,6 +16600,7 @@ freegamehacksandmore.com
 freegamekeygens.com
 freegames4download.com
 freegames4pc.com
+freegamesaddons.com
 freegameserver.net
 freegamesfiles.com
 freegamesgiveaways.com
@@ -17011,6 +17036,7 @@ funtoonez.com
 funtravelperu.com
 funtripsallover.com
 fupgvldb.com
+fuqiaiai.com
 furiousfiles.com
 furniture-screws.com
 furocmay.com
@@ -18253,6 +18279,7 @@ gogavdasjtxn.com
 gogergyxl.com
 gogetgorgeous.com
 gogetlinks.net
+gogle-drive.com
 gogntrsm.com
 gogo4girlz.com
 gogofly.cjb.net
@@ -18536,6 +18563,7 @@ gratisweb.com
 gratuit-hack.com
 gratuitfile.com
 gratuitmicrosoftpoints.com
+gratuitpsncodes.com
 gratuitxboxgold.com
 gravitron.chron.com
 gravityexp.com
@@ -19021,6 +19049,7 @@ hackandcheats.org
 hackandroidcheat.com
 hackapplications.com
 hackappz.com
+hackarena.net
 hackashock.com
 hackblackops2.com
 hackcandycrushsaga.com
@@ -19047,6 +19076,7 @@ hackearfacebook2014.com
 hackearfb.com
 hackearfb.org
 hackeartwitter.com
+hackearwhatsapp.com
 hackearwhatsapp.org
 hackearya.com
 hacked24.com
@@ -19695,6 +19725,7 @@ helpmedownload.com
 helpmycarpaltunnel.com
 helpnet100.com
 helprecoveracct.com
+helps-instagram.com
 helpupgradd.net
 hemonledriat.pro
 henasentence.pro
@@ -23273,6 +23304,7 @@ justmakethissithappen.xyz
 justmakethisthingshappen.xyz
 justmarriedvideo.com
 justmoresex.com
+justourwedding.com
 justprofit.xyz
 justredirect24.com
 justredirect25.com
@@ -24203,6 +24235,7 @@ kumtwckyq.com
 kundalonda.com
 kundendienst.de.com
 kundenkontoverifikation.com
+kundenlogin-pp-myweb.net
 kunduntravel.net
 kungfuwealth.com
 kunisama.com
@@ -24546,6 +24579,7 @@ laytonhubble.com
 lazkslkkmtpy.com
 lazy-gamers.com
 lazysusanfoods.com
+lb-floor.com
 lb.secureweb24.net
 lbaybxwiklnfe.com
 lbb.undisdlls.com
@@ -24585,6 +24619,7 @@ lckpubqq.com
 lckzoepctj.com
 lcllwonupseu.com
 lcloud-account.com
+lcloud-location.com
 lcloud-lostiphone.com
 lcmausjvnc.com
 lcmkcvisyynkw.com
@@ -25404,6 +25439,7 @@ login-fbcebook.com
 login-in-icloud.com
 login-kucoin.net
 login-manage.com
+login-secured.liraon.com
 login.dotomi.net
 login.gammaplatform.com
 login.micrrosoftonlline.com
@@ -25926,6 +25962,7 @@ m.hospital028.com
 m.jsqinvest.com
 m.kess13.cn
 m.llgkyj.cn
+m.login-secured.liraon.com
 m.lucky88.com
 m.luoshenbest.com
 m.m88cvf.com
@@ -26295,6 +26332,7 @@ markrtake4.com
 markupbd.com
 marlinaquarindo.com
 marocuisine.net
+maroonspider.com
 marryinamansion.com
 mars.beautyspaguide.com
 marsflag.com
@@ -26873,6 +26911,7 @@ metelpay.com
 meter-svc.nytimes.com
 methernary.com
 metherwallet.com
+methuenedge.com
 methuenmorgan.com
 metlife.inq.com
 metlife.touchcommerce.com
@@ -27184,6 +27223,7 @@ minecraftpremiumworld.com
 minecraftpremiumz.com
 minecraftpromotions.com
 minecraftps3.net
+minecraftserverforfree.com
 mineraladvocatecap.com
 minerva.healthcentral.com
 minevinc.com
@@ -27873,6 +27913,7 @@ msdmessagings.com
 mse2v5oglm.com
 msegeqxwopq.com
 mseriesbmw.top
+msfreightsystems.com
 msg.api.9apps.com
 msg.kingoapp.com
 msg.mobile.kglink.cn
@@ -28387,6 +28428,7 @@ myetherwalletet.com
 myetherwalletext.com
 myetherwalletfork.com
 myetherwalletgeth.com
+myetherwalleti.com
 myetherwalleti.org
 myetherwalletiu.com
 myetherwalletjson.com
@@ -29628,6 +29670,7 @@ nslaingeninfinedna.info
 nsnfokcikwf.com
 nsomfammrmhbc.com
 nsovwzmhl.com
+nspsjadugoda.com
 nsqdwwwoxs.com
 nsrecord.org
 nstjenxcpvm.com
@@ -29693,6 +29736,7 @@ nulledshare.com
 nulledstore.com
 nullenabler.com
 numarapaneli.com
+numax.nu-1.com
 number.vxshopping.com
 numberhacker.com
 numberthreebear.com
@@ -30023,6 +30067,7 @@ odiabetikah.com
 odieamaka.000webhostapp.com
 odile-marco.com
 odindownload.com
+odiserve.com
 odkrywamyzakryte.com
 odlkdyoe.com
 odmarco.com
@@ -31015,6 +31060,7 @@ p.xender.com
 p071qmn.com
 p0kec0ins.com
 p0stepay-it.com
+p1zt1c.ddtacd1.com
 p232207.mybestmv.com
 p27dokhpz2n7nvgr.12a63k.top
 p27dokhpz2n7nvgr.12c8ff.top
@@ -32267,6 +32313,7 @@ playata.myvideo.de
 playbooks.catalina.com
 playboymethod.com
 playcapt.com
+playcinema.stream80.com
 playdowncenter.com
 playdowngames.com
 playdownstation.com
@@ -32588,6 +32635,7 @@ popvertising.com
 popzkvfimbox.com
 poqqvnychl.com
 porn-hitz.com
+porn-review-site.com
 porn-sex-free.com
 porn-site-builder.com
 porn-sluts.com
@@ -34820,6 +34868,7 @@ reportajesadomicilio.com
 reporting.aatkit.com
 reporting.reactlite.com
 reporting.wilkinsonplus.com
+reportinstagram.com
 reports.actionx.com
 reports.cliqz.com
 reports.crittercism.com
@@ -36034,6 +36083,7 @@ savemybox.com
 savemyfile.net
 saversites.com
 savethis.clickability.com
+savetubevideo.com
 saveupto20.com
 saveyourholiday.com
 savingforshelter.com
@@ -36441,6 +36491,7 @@ segurosntander.com
 seikopacking.cn
 seiqobwpbofg.com
 seitnsoel.com
+seiya.work
 sejabemvindoaofuturo.com
 sejamaivoce.com
 sejoong.tourskorea.com
@@ -36953,6 +37004,7 @@ shifatour.com
 shiftthebalance.com
 shifty-hack.com
 shihoult.com
+shiiuojjccp.com
 shijiebei198.com
 shijincx.cn
 shikiantree.com
@@ -37066,6 +37118,7 @@ showdevelopment.com
 showdowncce.com
 showgardener.com
 showmeflix.com
+showmovie.xyz
 showryomg.com
 showsplash.com
 shqads.com
@@ -37315,6 +37368,7 @@ siyahturpbal.com
 siym.x1g4z6.cn
 sizinbankaniz-ziraat.com
 sizinggude1.com
+sizzle-savings.com
 sjboc.dreamhosters.com
 sjgcswrvltrx.com
 sjgttcfj.com
@@ -37766,6 +37820,7 @@ sofeelindia.com
 soforteinkommen.net
 sofortsexx.com
 soft-hack.net
+soft-program.com
 soft.jbdown.net
 soft.youxi123.com
 soft4click.com
@@ -37850,6 +37905,7 @@ solvusoft.com
 som.aeroplan.com
 somanidiagnostic.com
 somelandingpage.com
+someligeoas.com
 sometired.com
 somnoy.com
 sompuserve.com
@@ -38194,6 +38250,7 @@ ssl.trustwave.com
 ssl.xn--vqq79r59m.eu.org
 ssl1122.actonsoftware.com
 ssl2anyone.com
+ssl2anyone2.com
 ssl2anyone4.com
 ssl3.adhost.com
 ssl4anyone2.com
@@ -38817,6 +38874,7 @@ stream.jozmovie.xyz
 stream.movichart.com
 stream.useriq.com
 stream1.livefyre.com
+stream80.com
 streamdownloadonline.com
 streamfullmoviehd.com
 streamhd24.com
@@ -38872,6 +38930,7 @@ stvayyokjvxnl.com
 stwchicago.org
 style-eyes.eu
 styleadvisor.net
+stylefreecrewmusic.com
 stylehousemardan.com
 styleszelife.com
 su-cuenta-apple.com
@@ -39033,6 +39092,7 @@ superpackdlc.sharezips.net
 superpromopinguim.com
 superqualitypackers.com
 supersite.xyz
+supersitetime.com
 superstarpanda.com
 supertiens.com
 supertop100.com
@@ -39457,6 +39517,7 @@ tagserver.inq.com
 tagservereast.inq.com
 tagserverv3.inq.com
 tagshost.com
+tagtool.de
 tagtray.com
 tagular.com
 taherimay.com
@@ -40098,6 +40159,7 @@ thehackerportal.net
 thehackonline.com
 thehackspot.com
 thehackwizard.com
+thehairofcaptainpicard.com
 thehaydayhack.com
 thehishers.com
 thehistorysalon.com
@@ -40168,6 +40230,7 @@ therapistla.com
 therawfoodwoman.com
 therealryanralph.com
 therebelfasters.info
+therenewalchurch.org
 therewardsurvey.com
 therichkids.com
 thermasteelinc.com
@@ -41030,6 +41093,7 @@ trackcommon.hujiang.com
 trackcustomer.laredoute.com
 tracker-cronchs.com
 tracker-mac.com
+tracker-pm2.spilleren.com
 tracker.altservice.com
 tracker.bang.com
 tracker.blutv.com
@@ -41079,6 +41143,7 @@ tracksongs.dhingana.com
 tracksurf.daooda.com
 tracksys.developlabs.net
 tracktor.co.uk
+tracktrk.net
 trackzapper.com
 tractiontiresusa.com
 trada247.net
@@ -41091,6 +41156,7 @@ trade4real.org
 tradeadsexchange.com
 tradebot.top
 tradecsgo.top
+tradefastskin.com
 trademetallica.com
 trademissionmgt.com
 trademob.com
@@ -41104,6 +41170,7 @@ tradeservise.com
 tradesignempresa.com
 tradingcsgo.com
 traf-3rs.com
+traf.street-info.com
 trafdriver.com
 traff1.com
 traff10wap.com
@@ -42176,6 +42243,7 @@ uoaofgqu.angelcities.com
 uoapkzwkoqnk.com
 uoarbhxfyygn.com
 uoccvsdh.com
+uofmnbkm.com
 uohpnvpynvsz.com
 uoicsyuiof.com
 uoifloesog.com
@@ -42751,6 +42819,7 @@ valorfirellc.com
 valpeiros.com
 valpkwew.com
 valshara.com
+valthyra.com
 valtrex.7h.com
 valuchelelele.com
 valuecontent.net
@@ -43057,6 +43126,7 @@ vhouorcd.com
 vhpmiipdpjq.com
 vhpqxkhvjgwx.com
 vhscigqpwe.com
+vhtadetq.com
 vhuhrhowm.com
 vhuveukirbuz.com
 vhvuvmjxdo.com
@@ -43149,6 +43219,7 @@ videosongplayer.com
 videospokesmanpro.com
 videostecas.com
 videostrip.com
+videotracker.washingtonpost.com
 videotrailer.top
 videoustu.com
 videovfr.com
@@ -43965,6 +44036,7 @@ watchingmovie21.com
 watchitallnow.com
 watchmovieonlinefull.com
 watchmovies.just4umedia.com
+watchnowlive.eu
 watchrag.com
 watchrugbystream.com
 watchthesenow.com
@@ -44931,6 +45003,7 @@ wqxccfoswbwo.com
 wqypgiakfbxb.com
 wqzaloayckal.com
 wqzorzjhvzqf.com
+wranjeon.xyz
 wrapper.askmen.com
 wrapper.fileplanet.com
 wrapper.ign.com
@@ -45759,6 +45832,7 @@ xellvrgouivty.com
 xemtylecacuoc.bong99.com
 xen-media.com
 xenddwrxygjcbq.com
+xeontopa.com
 xeqbdmuvjqt.com
 xertive.com
 xevhszzauj.com
@@ -46376,6 +46450,7 @@ xskbsyssik.com
 xslt.alexa.com
 xsmafckigsdnij.com
 xsmangbomdick.com
+xsmccuism.com
 xsnfmaxicj.com
 xsnqhzbiqdmqw.com
 xsortxrmtpykh.com
@@ -46399,6 +46474,7 @@ xtedyfawylag.com
 xtivbxvndnv.com
 xtixyzjeibh.com
 xtjkieqcwn.com
+xtjmmnjr.com
 xtmjaetqtbm.com
 xtobxolwcptm.com
 xtozxivyaaex.com
@@ -46646,6 +46722,7 @@ yctquwjbbkfa.com
 yctuoyu.com
 ycuuzufqwsk.com
 ycv.clearshieldredirect.com
+ycxtpbfcsl.com
 ycyrgutjregkw.com
 yczdebjfskegsd.com
 ydaynvgmkjxvy.com
@@ -46705,6 +46782,7 @@ yes4biz.net
 yescounter.com
 yesfreedl.com
 yesitisqqq.com
+yesra.xyz
 yessearches.com
 yestimes.alexfilgueira.com
 yesucplcylxg.com
@@ -47579,6 +47657,7 @@ zilliaq.com
 zilogora.com
 zimbra.corp.appnexus.com
 zimbras.org
+zinphyra.com
 zinzino.com
 ziomale.net63.net
 zipitfast.com
@@ -47967,6 +48046,7 @@ zwprxzbnzxc.com
 zwqfnizwcvbx.com
 zwsyqdnhnyzckt.com
 zwuygjzjrjnedg.com
+zwwbvpwd.com
 zwxaraxq.com
 zwxfsqruqlim.com
 zwxrhsxa.goghh.top
@@ -54245,7 +54325,6 @@ zzzpooeaz-france.com
 .appspromote.wostore.cn
 .appstreets.com
 .appsupdate.sinaapp.com
-.appsupport.qq.com
 .apptap.com
 .apptentive.com
 .apptornado.com
@@ -65340,7 +65419,6 @@ zzzpooeaz-france.com
 .event.instiengage.com
 .event.ksosoft.com
 .event.syndigo.cloud
-.event.toggle.qq.com
 .event.webcollage.net
 .event1.thermofisher.com
 .eventapi.libring.com

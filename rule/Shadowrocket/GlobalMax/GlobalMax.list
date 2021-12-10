@@ -1,15 +1,15 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-10 02:11:03
+# UPDATED: 2021-12-11 02:10:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 33330
+# DOMAIN-SUFFIX: 33331
 # USER-AGENT: 77
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # URL-REGEX: 8
-# TOTAL: 34693
+# TOTAL: 34694
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,.blogspot.

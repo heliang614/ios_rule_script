@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-10 02:10:52
-# HOST-SUFFIX: 33330
+# UPDATED: 2021-12-11 02:10:45
+# HOST-SUFFIX: 33331
 # USER-AGENT: 77
 # HOST: 11
 # HOST-KEYWORD: 71
 # IP-CIDR: 1196
 # IP6-CIDR: 31
-# TOTAL: 34716
+# TOTAL: 34717
 HOST,blizzard.nefficient.co.kr,GlobalMax
 HOST,cdn77.scoreuniverse.com,GlobalMax
 HOST,clubhouse.pubnubapi.com,GlobalMax
@@ -7302,6 +7302,7 @@ HOST-SUFFIX,chi.xtvcname.com,GlobalMax
 HOST-SUFFIX,chicagolandbmw.com,GlobalMax
 HOST-SUFFIX,chicagoncmtv.com,GlobalMax
 HOST-SUFFIX,chickenbarrel.org,GlobalMax
+HOST-SUFFIX,chickenkiller.com,GlobalMax
 HOST-SUFFIX,chickstagram.com,GlobalMax
 HOST-SUFFIX,chiemtinhviet.com,GlobalMax
 HOST-SUFFIX,chihair-straightener.com,GlobalMax
