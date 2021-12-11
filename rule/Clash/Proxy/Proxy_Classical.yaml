@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-11 02:10:52
+# UPDATED: 2021-12-12 02:10:06
 # DOMAIN-SUFFIX: 32296
 # DOMAIN: 32
 # DOMAIN-KEYWORD: 29
@@ -3609,7 +3609,6 @@ payload:
   - DOMAIN-SUFFIX,api.arcadia.pncle8.com
   - DOMAIN-SUFFIX,api.chess.com
   - DOMAIN-SUFFIX,api.citizenvpn.com
-  - DOMAIN-SUFFIX,api.dmc.nico
   - DOMAIN-SUFFIX,api.feedbin.com
   - DOMAIN-SUFFIX,api.jomego.com
   - DOMAIN-SUFFIX,api.lm1188.com
@@ -8830,6 +8829,7 @@ payload:
   - DOMAIN-SUFFIX,dlsite.jp
   - DOMAIN-SUFFIX,dm530.net
   - DOMAIN-SUFFIX,dmas.com.au
+  - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dmesg.app

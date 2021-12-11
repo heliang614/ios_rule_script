@@ -17,11 +17,11 @@
 | mitm | 23 |
 | force_http_engine_hosts | 0 |
 | DOMAIN | 4 |
+| IP-CIDR6 | 1 |
 | URL-REGEX | 7 |
-| IP-CIDR | 1 |
 | DOMAIN-SUFFIX | 1 |
 | USER-AGENT | 1 |
-| IP-CIDR6 | 1 |
+| IP-CIDR | 1 |
 | reject | 21 |
 | http-response | 33 |
 | http-request | 1 |

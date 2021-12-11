@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-11 02:10:41
+# UPDATED: 2021-12-12 02:09:56
 # DOMAIN-SUFFIX: 32296
 # USER-AGENT: 11
 # DOMAIN: 32
@@ -3609,7 +3609,6 @@ widgets.stripst.com
 .api.arcadia.pncle8.com
 .api.chess.com
 .api.citizenvpn.com
-.api.dmc.nico
 .api.feedbin.com
 .api.jomego.com
 .api.lm1188.com
@@ -8830,6 +8829,7 @@ widgets.stripst.com
 .dlsite.jp
 .dm530.net
 .dmas.com.au
+.dmc.nico
 .dmcdn.net
 .dmed.technology
 .dmesg.app
