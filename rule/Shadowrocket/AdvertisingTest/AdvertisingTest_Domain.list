@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-12 02:10:07
+# UPDATED: 2021-12-13 02:09:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 84565
+# DOMAIN-SUFFIX: 84583
 # IP-CIDR: 256
-# DOMAIN: 41363
+# DOMAIN: 41368
 # URL-REGEX: 317
-# TOTAL: 126589
+# TOTAL: 126612
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -6867,6 +6867,7 @@ charanchedope.info
 charbroil.inq.com
 charbroil.touchcommerce.com
 charcoaltechnology.com
+charge-bank.com
 chargement-acc-france.org
 chargersqaud.xyz
 charhasad.com
@@ -7238,6 +7239,7 @@ cinema3satu.com
 cinemabio.com
 cinemaden.com
 cinemaedvd.com
+cinemanity.com
 cinemaon7.com
 cinemaxy.com
 cinepornox.com
@@ -22272,6 +22274,7 @@ mansik.000webhostapp.com
 mansmith.net
 mansouramobileacademy.com
 mantedtonisms.info
+manthanorganics.com
 mantrsa.000webhostapp.com
 manuelfernandojr.com
 map-of-iphone.com
@@ -22281,6 +22284,7 @@ maplgroup.com
 mapqueat.com
 mapquestt.com
 mapquuest.com
+maprolen.com
 mapstats.blogflux.com
 maputomotorsport.com
 maqns.webege.com
@@ -30872,6 +30876,7 @@ savvyads.com
 sawdfbwxqcpcs.com
 sax.peakonspot.com
 sayadcoltd.com
+sayelemall.com
 sayfibhat.club
 sayherbal.com
 saywidgets.awe.sm
@@ -43483,6 +43488,7 @@ zzzpooeaz-france.com
 .6f793cc9999.com
 .6fai2.cn
 .6gijbgjyzc14.com
+.6gt.cc
 .6huu.com
 .6i4uibyg0c82.com
 .6jfvnf69jx.ru
@@ -49789,6 +49795,7 @@ zzzpooeaz-france.com
 .adx.xiaodutv.com
 .adx.xtv.vn
 .adx.yiche.com
+.adx01.com
 .adx1.com
 .adx3.iq39.com
 .adxadserv.com
@@ -50318,6 +50325,7 @@ zzzpooeaz-france.com
 .ahedsply.com
 .ahelessenge.club
 .ahfdsply.com
+.ahfrhub.cn
 .ahgdsply.com
 .ahgjtc.com
 .ahh-teens.com
@@ -53273,6 +53281,7 @@ zzzpooeaz-france.com
 .axoncoho.tk
 .axonix.com
 .axp9.com
+.axp9.net
 .axpvy.cn
 .axqpn.cn
 .axsrq.cn
@@ -53453,6 +53462,7 @@ zzzpooeaz-france.com
 .b1.c1km4.com
 .b1.fengdu100.com
 .b1.hentaibaka.one
+.b1.puxuewang.cn
 .b1.qqjay.com
 .b1.xiao84.com
 .b13.penzainform.ru
@@ -53536,6 +53546,7 @@ zzzpooeaz-france.com
 .b7tp47v2nb3x-a.akamaihd.net
 .b81oidrmy82w.com
 .b81x63nc.ws.md
+.b84.xyz
 .b88c9bd1dcedfc3.com
 .b8af8878e9a9565.com
 .b8cf0fd3179ef.com
@@ -54131,6 +54142,7 @@ zzzpooeaz-france.com
 .bantrmind.com
 .banusatoday.com
 .banusdona.top
+.banwb.com
 .banwm.com
 .banxf.com
 .banxfw.cn
@@ -56921,7 +56933,6 @@ zzzpooeaz-france.com
 .buylortabonline.bigsitecity.com
 .buymanuel.co
 .buymusicdirect.com
-.buyon.it
 .buyorselltnhomes.com
 .buypaxilonline.7h.com
 .buypaxilonline.bigsitecity.com
@@ -71675,6 +71686,7 @@ zzzpooeaz-france.com
 .fxunn.com
 .fxxgw.com
 .fxyg168.com
+.fxyjmp.top
 .fy4zb.cn
 .fy6x8o.cn
 .fyber.com
@@ -76601,6 +76613,7 @@ zzzpooeaz-france.com
 .hybrid.ai
 .hycfxdc.com
 .hyconsistenb.space
+.hycra.cn
 .hydra.alibaba.com
 .hydracdn.network
 .hydragrouge.com
@@ -77788,6 +77801,7 @@ zzzpooeaz-france.com
 .imserv00x.adtech.fr
 .imserv00x.adtech.us
 .imsnp.com
+.imspecial.club
 .imssl01.adtech.fr
 .imssl01.adtech.us
 .imstks.com
@@ -79965,6 +79979,7 @@ zzzpooeaz-france.com
 .jiuduad.com
 .jiuhui878.com
 .jiuji.ltd
+.jiujigroup.top
 .jiujiinc.top
 .jiujiushishi.com
 .jiuku.cc
@@ -80035,6 +80050,7 @@ zzzpooeaz-france.com
 .jl1130.com
 .jl29jd25sm24mc29.com
 .jl368.cn
+.jlbz.club
 .jlcarral.com
 .jldtlh.fashionnova.com
 .jlhygy.com
@@ -84048,6 +84064,7 @@ zzzpooeaz-france.com
 .log2.molitv.cn
 .log2.mtime.cn
 .log2.musical.ly
+.log2.radiko.jp
 .log2.ru
 .log2.sina.cn
 .log2.spotify.com
@@ -84707,6 +84724,7 @@ zzzpooeaz-france.com
 .lxhjaq.cn
 .lxiaho.lesfurets.com
 .lxind.cn
+.lxiu.shop
 .lxlx.shop
 .lxmnrl.eobuv.sk
 .lxoemc.libero.it
@@ -99298,6 +99316,7 @@ zzzpooeaz-france.com
 .pvtest.zol.com.cn
 .pvx.autohome.com.cn
 .pvx.xcar.com.cn
+.pvxymnz.cn
 .pvyvglaf.com
 .pw.gigazine.net
 .pw321.com
@@ -111707,6 +111726,7 @@ zzzpooeaz-france.com
 .t.imgur.com
 .t.indeed.com
 .t.info.rezbine.com
+.t.irtyc.com
 .t.itsehoitoapteekki.fi
 .t.iz55.com
 .t.jmusports.com
@@ -119463,6 +119483,7 @@ zzzpooeaz-france.com
 .wangjulm.com
 .wangkeduo.cn
 .wangketuan.com
+.wangl903.com
 .wanglc.vip
 .wangliqin.top
 .wangluoruanjian.com
@@ -123642,6 +123663,7 @@ zzzpooeaz-france.com
 .yabo168.cc
 .yabo816.com
 .yaboshadi.com
+.yabqg.cn
 .yabuka.com
 .yacafrr.bailingcloud.cn
 .yaccidedap.top
@@ -124642,6 +124664,7 @@ zzzpooeaz-france.com
 .yule.sohu.com
 .yule12888.com
 .yule8.net
+.yulidianshang.com
 .yulonginvest.com.cn
 .yuluna.name
 .yulunanews.name

@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-12 02:09:58
+# UPDATED: 2021-12-13 02:09:20
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 54584
 # IP-CIDR: 256
-# HOST: 48281
+# HOST: 48289
 # IP6-CIDR: 1
-# TOTAL: 103210
+# TOTAL: 103218
 HOST,0.nextyourcontent.com,Advertising
 HOST,0000mps.webpreview.dsl.net,Advertising
 HOST,0001.2waky.com,Advertising
@@ -9056,6 +9056,7 @@ HOST,charanchedope.info,Advertising
 HOST,charbroil.inq.com,Advertising
 HOST,charbroil.touchcommerce.com,Advertising
 HOST,charcoaltechnology.com,Advertising
+HOST,charge-bank.com,Advertising
 HOST,chargement-acc-france.org,Advertising
 HOST,chargersqaud.xyz,Advertising
 HOST,charging-technology.com,Advertising
@@ -9544,6 +9545,7 @@ HOST,cinema3satu.com,Advertising
 HOST,cinemabio.com,Advertising
 HOST,cinemaden.com,Advertising
 HOST,cinemaedvd.com,Advertising
+HOST,cinemanity.com,Advertising
 HOST,cinemaon7.com,Advertising
 HOST,cinemaxy.com,Advertising
 HOST,cinepornox.com,Advertising
@@ -21167,6 +21169,7 @@ HOST,ifbubmsr.com,Advertising
 HOST,ifbwyogrfjo.com,Advertising
 HOST,ifdmdfqysaacqa.com,Advertising
 HOST,ifecuwzjajkiq.com,Advertising
+HOST,ifeuddaywa.com,Advertising
 HOST,iffywords.890m.com,Advertising
 HOST,iffzxqnhd.com,Advertising
 HOST,ifghealthmedia.com,Advertising
@@ -26333,6 +26336,7 @@ HOST,mansion66.com,Advertising
 HOST,mansmith.net,Advertising
 HOST,mansouramobileacademy.com,Advertising
 HOST,mantedtonisms.info,Advertising
+HOST,manthanorganics.com,Advertising
 HOST,mantrsa.000webhostapp.com,Advertising
 HOST,manuel.theonion.com,Advertising
 HOST,manuelfernandojr.com,Advertising
@@ -26343,6 +26347,7 @@ HOST,maplgroup.com,Advertising
 HOST,mapqueat.com,Advertising
 HOST,mapquestt.com,Advertising
 HOST,mapquuest.com,Advertising
+HOST,maprolen.com,Advertising
 HOST,maps-antivert58.eksuziv.net,Advertising
 HOST,mapstats.blogflux.com,Advertising
 HOST,maputomotorsport.com,Advertising
@@ -36222,6 +36227,7 @@ HOST,sawdfbwxqcpcs.com,Advertising
 HOST,sax.peakonspot.com,Advertising
 HOST,sayac.onlinewebstats.com,Advertising
 HOST,sayadcoltd.com,Advertising
+HOST,sayelemall.com,Advertising
 HOST,sayfabulunamadi.com,Advertising
 HOST,sayfibhat.club,Advertising
 HOST,sayherbal.com,Advertising
@@ -37444,6 +37450,7 @@ HOST,sionicmedia.com,Advertising
 HOST,sip.touchcommerce.com,Advertising
 HOST,sippisoftware.com,Advertising
 HOST,siqcrwlrqjc.com,Advertising
+HOST,siradsalot.com,Advertising
 HOST,siriedteam.com,Advertising
 HOST,sirin-labs.com,Advertising
 HOST,sirin-labs.org,Advertising
@@ -42094,6 +42101,7 @@ HOST,ujrfwuzv.com,Advertising
 HOST,ujrtwvabum.com,Advertising
 HOST,ujtyosgemtnx.com,Advertising
 HOST,ujuclxjkb.com,Advertising
+HOST,ujuqvalvvvof.com,Advertising
 HOST,ujvmzzwsxzrd3.com,Advertising
 HOST,ujwdwwfuqcgnv.com,Advertising
 HOST,ujxogbsw.com,Advertising

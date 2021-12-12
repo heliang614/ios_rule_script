@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-12 02:10:03
+# UPDATED: 2021-12-13 02:09:26
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 54584
 # IP-CIDR: 256
-# DOMAIN: 48281
+# DOMAIN: 48289
 # IP-CIDR6: 1
-# TOTAL: 103210
+# TOTAL: 103218
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0000mps.webpreview.dsl.net
@@ -9057,6 +9057,7 @@ payload:
   - DOMAIN,charbroil.inq.com
   - DOMAIN,charbroil.touchcommerce.com
   - DOMAIN,charcoaltechnology.com
+  - DOMAIN,charge-bank.com
   - DOMAIN,chargement-acc-france.org
   - DOMAIN,chargersqaud.xyz
   - DOMAIN,charging-technology.com
@@ -9545,6 +9546,7 @@ payload:
   - DOMAIN,cinemabio.com
   - DOMAIN,cinemaden.com
   - DOMAIN,cinemaedvd.com
+  - DOMAIN,cinemanity.com
   - DOMAIN,cinemaon7.com
   - DOMAIN,cinemaxy.com
   - DOMAIN,cinepornox.com
@@ -21168,6 +21170,7 @@ payload:
   - DOMAIN,ifbwyogrfjo.com
   - DOMAIN,ifdmdfqysaacqa.com
   - DOMAIN,ifecuwzjajkiq.com
+  - DOMAIN,ifeuddaywa.com
   - DOMAIN,iffywords.890m.com
   - DOMAIN,iffzxqnhd.com
   - DOMAIN,ifghealthmedia.com
@@ -26334,6 +26337,7 @@ payload:
   - DOMAIN,mansmith.net
   - DOMAIN,mansouramobileacademy.com
   - DOMAIN,mantedtonisms.info
+  - DOMAIN,manthanorganics.com
   - DOMAIN,mantrsa.000webhostapp.com
   - DOMAIN,manuel.theonion.com
   - DOMAIN,manuelfernandojr.com
@@ -26344,6 +26348,7 @@ payload:
   - DOMAIN,mapqueat.com
   - DOMAIN,mapquestt.com
   - DOMAIN,mapquuest.com
+  - DOMAIN,maprolen.com
   - DOMAIN,maps-antivert58.eksuziv.net
   - DOMAIN,mapstats.blogflux.com
   - DOMAIN,maputomotorsport.com
@@ -36223,6 +36228,7 @@ payload:
   - DOMAIN,sax.peakonspot.com
   - DOMAIN,sayac.onlinewebstats.com
   - DOMAIN,sayadcoltd.com
+  - DOMAIN,sayelemall.com
   - DOMAIN,sayfabulunamadi.com
   - DOMAIN,sayfibhat.club
   - DOMAIN,sayherbal.com
@@ -37445,6 +37451,7 @@ payload:
   - DOMAIN,sip.touchcommerce.com
   - DOMAIN,sippisoftware.com
   - DOMAIN,siqcrwlrqjc.com
+  - DOMAIN,siradsalot.com
   - DOMAIN,siriedteam.com
   - DOMAIN,sirin-labs.com
   - DOMAIN,sirin-labs.org
@@ -42095,6 +42102,7 @@ payload:
   - DOMAIN,ujrtwvabum.com
   - DOMAIN,ujtyosgemtnx.com
   - DOMAIN,ujuclxjkb.com
+  - DOMAIN,ujuqvalvvvof.com
   - DOMAIN,ujvmzzwsxzrd3.com
   - DOMAIN,ujwdwwfuqcgnv.com
   - DOMAIN,ujxogbsw.com

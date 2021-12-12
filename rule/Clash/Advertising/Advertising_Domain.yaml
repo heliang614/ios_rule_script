@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-12 02:10:03
+# UPDATED: 2021-12-13 02:09:26
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 54584
 # IP-CIDR: 256
-# DOMAIN: 48281
+# DOMAIN: 48289
 # IP-CIDR6: 1
-# TOTAL: 103210
+# TOTAL: 103218
 payload:
   - '0.nextyourcontent.com'
   - '0000mps.webpreview.dsl.net'
@@ -9057,6 +9057,7 @@ payload:
   - 'charbroil.inq.com'
   - 'charbroil.touchcommerce.com'
   - 'charcoaltechnology.com'
+  - 'charge-bank.com'
   - 'chargement-acc-france.org'
   - 'chargersqaud.xyz'
   - 'charging-technology.com'
@@ -9545,6 +9546,7 @@ payload:
   - 'cinemabio.com'
   - 'cinemaden.com'
   - 'cinemaedvd.com'
+  - 'cinemanity.com'
   - 'cinemaon7.com'
   - 'cinemaxy.com'
   - 'cinepornox.com'
@@ -21168,6 +21170,7 @@ payload:
   - 'ifbwyogrfjo.com'
   - 'ifdmdfqysaacqa.com'
   - 'ifecuwzjajkiq.com'
+  - 'ifeuddaywa.com'
   - 'iffywords.890m.com'
   - 'iffzxqnhd.com'
   - 'ifghealthmedia.com'
@@ -26334,6 +26337,7 @@ payload:
   - 'mansmith.net'
   - 'mansouramobileacademy.com'
   - 'mantedtonisms.info'
+  - 'manthanorganics.com'
   - 'mantrsa.000webhostapp.com'
   - 'manuel.theonion.com'
   - 'manuelfernandojr.com'
@@ -26344,6 +26348,7 @@ payload:
   - 'mapqueat.com'
   - 'mapquestt.com'
   - 'mapquuest.com'
+  - 'maprolen.com'
   - 'maps-antivert58.eksuziv.net'
   - 'mapstats.blogflux.com'
   - 'maputomotorsport.com'
@@ -36223,6 +36228,7 @@ payload:
   - 'sax.peakonspot.com'
   - 'sayac.onlinewebstats.com'
   - 'sayadcoltd.com'
+  - 'sayelemall.com'
   - 'sayfabulunamadi.com'
   - 'sayfibhat.club'
   - 'sayherbal.com'
@@ -37445,6 +37451,7 @@ payload:
   - 'sip.touchcommerce.com'
   - 'sippisoftware.com'
   - 'siqcrwlrqjc.com'
+  - 'siradsalot.com'
   - 'siriedteam.com'
   - 'sirin-labs.com'
   - 'sirin-labs.org'
@@ -42095,6 +42102,7 @@ payload:
   - 'ujrtwvabum.com'
   - 'ujtyosgemtnx.com'
   - 'ujuclxjkb.com'
+  - 'ujuqvalvvvof.com'
   - 'ujvmzzwsxzrd3.com'
   - 'ujwdwwfuqcgnv.com'
   - 'ujxogbsw.com'
